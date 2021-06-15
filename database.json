@@ -1,0 +1,66 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Hannah Hall",
+      "email": "hannah@nss.com",
+      "winPercentage": 66.66
+    },
+    {
+      "id": 2,
+      "name": "Clark Creswell",
+      "email": "clark@nss.com",
+      "winPercentage": 50
+    },
+    {
+      "id": 3,
+      "name": "Nan Namafoko",
+      "email": "nan@nss.com",
+      "winPercentage": 87.5
+    },
+    {
+      "email": "gabe@nss.com",
+      "name": "Gabriel Gonzales",
+      "winPercentage": 75,
+      "id": 4
+    }
+  ],
+  "userRaces": [
+    {
+      "id": 1,
+      "userId": 4,
+      "raceId": 1,
+      "date": "2021-06-05",
+      "time": 14
+    }
+  ],
+  "races": [
+    {
+      "id": 1,
+      "title": "Sample Race 1",
+      "location": "Elmington Park",
+      "date": "2021-06-05",
+      "time": 14,
+      "participants": [],
+      "comments": "The innagural race! Our four original zorbers competed in a brisk, two lap circuit around Elmington Park. Lovely day for the record books!"
+    },
+    {
+      "id": 2,
+      "title": "Belmont Baja",
+      "location": "Belmont Blvd",
+      "date": "2021-06-10",
+      "time": 9,
+      "participants": [],
+      "comments": "Utter chaos down a major residential street! Zorbs everywhere! Nice little meetup afterwards at Martin's BBQ."
+    },
+    {
+      "id": 3,
+      "title": "Saturday Sparring",
+      "location": "Rose Park",
+      "date": "2021-06-11",
+      "time": 15,
+      "participants": [],
+      "comments": "Quick sprint to keep fresh for the bigger races on the horizon."
+    }
+  ]
+}
