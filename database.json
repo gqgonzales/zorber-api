@@ -55,6 +55,36 @@
       "userId": 4,
       "eventId": 1,
       "time": "3:32"
+    },
+    {
+      "id": 5,
+      "userId": 1,
+      "eventId": 2,
+      "time": "5:13"
+    },
+    {
+      "id": 6,
+      "userId": 2,
+      "eventId": 2,
+      "time": "5:45"
+    },
+    {
+      "id": 7,
+      "userId": 3,
+      "eventId": 2,
+      "time": "5:38"
+    },
+    {
+      "id": 8,
+      "userId": 4,
+      "eventId": 2,
+      "time": "5:26"
+    },
+    {
+      "id": 9,
+      "userId": 5,
+      "eventId": 2,
+      "time": "5:49"
     }
   ],
   "events": [
