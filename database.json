@@ -23,25 +23,48 @@
       "name": "Gabriel Gonzales",
       "winPercentage": 75,
       "id": 4
+    },
+    {
+      "email": "walker@nss.com",
+      "name": "Walker Zimmerman",
+      "winPercentage": 0,
+      "id": 5
     }
   ],
-  "userRaces": [
+  "userEvents": [
     {
       "id": 1,
+      "userId": 1,
+      "eventId": 1,
+      "time": "3:21"
+    },
+    {
+      "id": 2,
+      "userId": 2,
+      "eventId": 1,
+      "time": "3:45"
+    },
+    {
+      "id": 3,
+      "userId": 3,
+      "eventId": 1,
+      "time": "3:40"
+    },
+    {
+      "id": 4,
       "userId": 4,
-      "raceId": 1,
-      "date": "2021-06-05",
-      "time": 14
+      "eventId": 1,
+      "time": "3:32"
     }
   ],
-  "races": [
+  "events": [
     {
       "id": 1,
       "title": "Sample Race 1",
       "location": "Elmington Park",
       "date": "2021-06-05",
-      "time": 14,
-      "participants": [],
+      "startTime": 14,
+      "userId": 4,
       "comments": "The innagural race! Our four original zorbers competed in a brisk, two lap circuit around Elmington Park. Lovely day for the record books!"
     },
     {
@@ -49,8 +72,8 @@
       "title": "Belmont Baja",
       "location": "Belmont Blvd",
       "date": "2021-06-10",
-      "time": 9,
-      "participants": [],
+      "startTime": 9,
+      "userId": 4,
       "comments": "Utter chaos down a major residential street! Zorbs everywhere! Nice little meetup afterwards at Martin's BBQ."
     },
     {
@@ -58,9 +81,45 @@
       "title": "Saturday Sparring",
       "location": "Rose Park",
       "date": "2021-06-11",
-      "time": 15,
-      "participants": [],
+      "startTime": 15,
+      "userId": 4,
       "comments": "Quick sprint to keep fresh for the bigger races on the horizon."
+    },
+    {
+      "id": 4,
+      "title": "Kentucky Classico",
+      "location": "Churchill Downs",
+      "date": "2021-07-03",
+      "startTime": 13,
+      "userId": 2,
+      "comments": "One of the biggest races of the year. Move over horseys, the zorbies are here."
+    },
+    {
+      "id": 5,
+      "title": "Sunday Spinning",
+      "location": "Elmington Park",
+      "date": "2021-07-12",
+      "startTime": 8,
+      "userId": 4,
+      "comments": "Early morning roll."
+    },
+    {
+      "id": 6,
+      "title": "My Way On The Highway",
+      "location": "I-65",
+      "date": "2021-08-19",
+      "startTime": 15,
+      "userId": 4,
+      "comments": "Playing in traffic, having a laugh"
+    },
+    {
+      "id": 7,
+      "title": "Trackstarz",
+      "location": "Rose Park",
+      "date": "2021-09-4",
+      "startTime": 15,
+      "userId": 4,
+      "comments": "While the weather cools off, the competition heats up!"
     }
   ]
 }
