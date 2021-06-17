@@ -181,6 +181,18 @@
       "userId": 6,
       "eventId": 7,
       "time": "3:00"
+    },
+    {
+      "id": 25,
+      "userId": 1,
+      "eventId": 8,
+      "time": "1:00"
+    },
+    {
+      "id": 26,
+      "userId": 2,
+      "eventId": 8,
+      "time": "1:00"
     }
   ],
   "events": [
@@ -189,7 +201,7 @@
       "title": "The Genesis",
       "location": "Elmington Park",
       "date": "2021-06-05",
-      "startTime": 14,
+      "startTime": "14:00",
       "userId": 4,
       "comments": "The innagural race! Our five original zorbers competed in a brisk, two lap circuit around Elmington Park. Lovely day for the record books!"
     },
@@ -198,7 +210,7 @@
       "title": "Belmont Baja",
       "location": "Belmont Blvd",
       "date": "2021-06-10",
-      "startTime": 9,
+      "startTime": "09:00",
       "userId": 4,
       "comments": "Utter chaos down a major residential street! Zorbs everywhere! Nice little meetup afterwards at Martin's BBQ."
     },
@@ -207,7 +219,7 @@
       "title": "Saturday Sparring",
       "location": "Rose Park",
       "date": "2021-06-11",
-      "startTime": 15,
+      "startTime": "15:00",
       "userId": 4,
       "comments": "Quick sprint to keep fresh for the bigger races on the horizon."
     },
@@ -216,7 +228,7 @@
       "title": "Kentucky Classico",
       "location": "Churchill Downs",
       "date": "2021-07-03",
-      "startTime": 13,
+      "startTime": "13:00",
       "userId": 2,
       "comments": "One of the biggest races of the year. Move over horseys, the zorbies are here."
     },
@@ -225,7 +237,7 @@
       "title": "Sunday Spinning",
       "location": "Elmington Park",
       "date": "2021-07-12",
-      "startTime": 8,
+      "startTime": "08:00",
       "userId": 5,
       "comments": "Early morning roll."
     },
@@ -234,7 +246,7 @@
       "title": "My Way On The Highway",
       "location": "I-65",
       "date": "2021-08-19",
-      "startTime": 15,
+      "startTime": "10:30",
       "userId": 2,
       "comments": "Playing in traffic, having a laugh"
     },
@@ -242,10 +254,28 @@
       "id": 7,
       "title": "Trackstarz",
       "location": "Rose Park",
-      "date": "2021-09-4",
-      "startTime": 15,
+      "date": "2021-09-04",
+      "startTime": "15:00",
       "userId": 4,
       "comments": "While the weather cools off, the competition heats up!"
+    },
+    {
+      "id": 8,
+      "title": "DELETE ME",
+      "location": "Sample Location",
+      "date": "2021-01-04",
+      "startTime": "07:25",
+      "userId": 5,
+      "comments": "Sample object for deletion"
+    },
+    {
+      "title": "RollsRoyce",
+      "location": "Royce Blvd",
+      "date": "2021-09-18",
+      "startTime": "16:45",
+      "userId": 4,
+      "comments": "Nashville's bougiest street needs some extra weirdness this afternoon. Bring your zorb and let's have a leisurely roll down the boulevard!",
+      "id": 9
     }
   ]
 }
