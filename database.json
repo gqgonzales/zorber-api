@@ -183,16 +183,10 @@
       "time": "3:00"
     },
     {
-      "id": 25,
-      "userId": 1,
-      "eventId": 8,
-      "time": "1:00"
-    },
-    {
-      "id": 26,
-      "userId": 2,
-      "eventId": 8,
-      "time": "1:00"
+      "userId": 0,
+      "eventId": 0,
+      "time": "",
+      "id": 25
     }
   ],
   "events": [
@@ -203,7 +197,7 @@
       "date": "2021-06-05",
       "startTime": "14:00",
       "userId": 4,
-      "comments": "The innagural race! Our five original zorbers competed in a brisk, two lap circuit around Elmington Park. Lovely day for the record books!"
+      "comments": "The inaugural race! Our five original zorbers competed in a brisk, two lap circuit around Elmington Park. Lovely day for the record books!"
     },
     {
       "id": 2,
@@ -217,7 +211,7 @@
     {
       "id": 3,
       "title": "Saturday Sparring",
-      "location": "Rose Park",
+      "location": "ES Rose Park",
       "date": "2021-06-11",
       "startTime": "15:00",
       "userId": 4,
@@ -228,7 +222,7 @@
       "title": "Kentucky Classico",
       "location": "Churchill Downs",
       "date": "2021-07-03",
-      "startTime": "13:00",
+      "startTime": "13:30",
       "userId": 2,
       "comments": "One of the biggest races of the year. Move over horseys, the zorbies are here."
     },
@@ -260,15 +254,6 @@
       "comments": "While the weather cools off, the competition heats up!"
     },
     {
-      "id": 8,
-      "title": "DELETE ME",
-      "location": "Sample Location",
-      "date": "2021-01-04",
-      "startTime": "07:25",
-      "userId": 5,
-      "comments": "Sample object for deletion"
-    },
-    {
       "title": "RollsRoyce",
       "location": "Royce Blvd",
       "date": "2021-09-18",
@@ -276,6 +261,42 @@
       "userId": 4,
       "comments": "Nashville's bougiest street needs some extra weirdness this afternoon. Bring your zorb and let's have a leisurely roll down the boulevard!",
       "id": 9
+    },
+    {
+      "id": 10,
+      "title": "Sidewinder",
+      "location": "West Nashville",
+      "date": "2021-08-20",
+      "startTime": "17:15",
+      "userId": 2,
+      "comments": "A zig-zag through the twisty hills west of the city."
+    },
+    {
+      "title": "Eye on the Prize",
+      "location": "Franklin Meadows",
+      "date": "2021-12-30",
+      "startTime": "14:00",
+      "userId": 4,
+      "comments": "Testing our multi-user select",
+      "id": 11
+    },
+    {
+      "title": "Tester 2",
+      "location": "At the test track",
+      "date": "2021-06-30",
+      "startTime": "17:44",
+      "userId": 4,
+      "comments": "Test comments",
+      "id": 12
+    },
+    {
+      "title": "Tester 2",
+      "location": "At the test track",
+      "date": "2021-06-30",
+      "startTime": "17:44",
+      "userId": 4,
+      "comments": "Test comments",
+      "id": 13
     }
   ]
 }
