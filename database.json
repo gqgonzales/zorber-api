@@ -26,13 +26,13 @@
     },
     {
       "email": "walker@nss.com",
-      "name": "Walker Zimmerman",
+      "name": "Walker Windsor",
       "winPercentage": 0,
       "id": 5
     },
     {
       "email": "lana@nss.com",
-      "name": "Lana Del Hey",
+      "name": "Lana Lehmann",
       "winPercentage": 0,
       "id": 6
     }
@@ -181,12 +181,6 @@
       "userId": 6,
       "eventId": 7,
       "time": "3:00"
-    },
-    {
-      "userId": 0,
-      "eventId": 0,
-      "time": "",
-      "id": 25
     }
   ],
   "events": [
@@ -272,31 +266,13 @@
       "comments": "A zig-zag through the twisty hills west of the city."
     },
     {
+      "id": 11,
       "title": "Eye on the Prize",
       "location": "Franklin Meadows",
-      "date": "2021-12-30",
-      "startTime": "14:00",
+      "date": "2021-12-23",
+      "startTime": "13:00",
       "userId": 4,
-      "comments": "Testing our multi-user select",
-      "id": 11
-    },
-    {
-      "title": "Tester 2",
-      "location": "At the test track",
-      "date": "2021-06-30",
-      "startTime": "17:44",
-      "userId": 4,
-      "comments": "Test comments",
-      "id": 12
-    },
-    {
-      "title": "Tester 2",
-      "location": "At the test track",
-      "date": "2021-06-30",
-      "startTime": "17:44",
-      "userId": 4,
-      "comments": "Test comments",
-      "id": 13
+      "comments": "Testing our multi-user select, let's see if we can create some new objects."
     }
   ]
 }
