@@ -181,6 +181,18 @@
       "userId": 6,
       "eventId": 7,
       "time": "3:00"
+    },
+    {
+      "userId": 4,
+      "eventId": 18,
+      "time": "",
+      "id": 25
+    },
+    {
+      "userId": 6,
+      "eventId": 18,
+      "time": "",
+      "id": 26
     }
   ],
   "events": [
@@ -189,7 +201,7 @@
       "title": "The Genesis",
       "location": "Elmington Park",
       "date": "2021-06-05",
-      "startTime": "14:00",
+      "startTime": "13:30",
       "userId": 4,
       "comments": "The inaugural race! Our five original zorbers competed in a brisk, two lap circuit around Elmington Park. Lovely day for the record books!"
     },
@@ -273,6 +285,51 @@
       "startTime": "13:00",
       "userId": 4,
       "comments": "Testing our multi-user select, let's see if we can create some new objects."
+    },
+    {
+      "title": "Sample Race",
+      "location": "Wherever",
+      "date": "2021-06-25",
+      "startTime": "18:00",
+      "userId": 4,
+      "comments": "Sample description",
+      "id": 12
+    },
+    {
+      "title": "Building Bridges",
+      "location": "Natchez Trace Parkway",
+      "date": "2021-08-03",
+      "startTime": "10:00",
+      "userId": 4,
+      "comments": "Testing out bridge objects in more ways than one!",
+      "id": 13
+    },
+    {
+      "id": 15,
+      "title": "Wednesday Walkabout",
+      "location": "Capitol View",
+      "date": "2021-07-24",
+      "startTime": "10:00",
+      "userId": 4,
+      "comments": "Quick stroll around the Capitol."
+    },
+    {
+      "id": 17,
+      "title": "Quickstart",
+      "location": "Washington Square",
+      "date": "2021-06-24",
+      "startTime": "10:00",
+      "userId": 4,
+      "comments": "Sprints down by that little patch of grass with the falafel stand at the south end."
+    },
+    {
+      "id": 18,
+      "title": "Dua Slipa",
+      "location": "North Park",
+      "date": "2021-06-08",
+      "startTime": "17:30",
+      "userId": 4,
+      "comments": "What if raced down waterslides?"
     }
   ]
 }
