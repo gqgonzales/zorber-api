@@ -216,7 +216,7 @@
     },
     {
       "id": 3,
-      "title": "Saturday Sparring",
+      "title": "Saturday Spinning",
       "location": "ES Rose Park",
       "date": "2021-06-11",
       "startTime": "15:00",
@@ -234,7 +234,7 @@
     },
     {
       "id": 5,
-      "title": "Sunday Spinning",
+      "title": "Sunday Stroll",
       "location": "Elmington Park",
       "date": "2021-07-12",
       "startTime": "08:00",
@@ -320,16 +320,16 @@
       "date": "2021-06-24",
       "startTime": "10:00",
       "userId": 4,
-      "comments": "Sprints down by that little patch of grass with the falafel stand at the south end."
+      "comments": "Sprints down by that little patch of grass with the falafel stand at the south end. Bring your skateboard, too!"
     },
     {
       "id": 18,
-      "title": "Dua Slipa",
+      "title": "...With Water This Time!",
       "location": "North Park",
       "date": "2021-06-08",
       "startTime": "17:30",
       "userId": 4,
-      "comments": "What if raced down waterslides?"
+      "comments": "What if raced down waterslides? 👀"
     }
   ]
 }
