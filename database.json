@@ -4,24 +4,24 @@
       "id": 1,
       "name": "Hannah Hall",
       "email": "hannah@nss.com",
-      "winPercentage": 66.66
+      "winPercentage": 0
     },
     {
       "id": 2,
       "name": "Clark Creswell",
       "email": "clark@nss.com",
-      "winPercentage": 50
+      "winPercentage": 0
     },
     {
       "id": 3,
       "name": "Nan Namafoko",
       "email": "nan@nss.com",
-      "winPercentage": 87.5
+      "winPercentage": 0
     },
     {
       "email": "gabe@nss.com",
       "name": "Gabriel Gonzales",
-      "winPercentage": 75,
+      "winPercentage": 0,
       "id": 4
     },
     {
@@ -185,13 +185,13 @@
     {
       "userId": 4,
       "eventId": 18,
-      "time": "",
+      "time": "4:01",
       "id": 25
     },
     {
       "userId": 6,
       "eventId": 18,
-      "time": "",
+      "time": "4:15",
       "id": 26
     }
   ],
