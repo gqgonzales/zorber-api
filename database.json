@@ -193,6 +193,18 @@
       "eventId": 18,
       "time": "4:15",
       "id": 26
+    },
+    {
+      "userId": 2,
+      "eventId": 17,
+      "time": "4:03",
+      "id": 27
+    },
+    {
+      "userId": 5,
+      "eventId": 17,
+      "time": "3:55",
+      "id": 28
     }
   ],
   "events": [
