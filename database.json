@@ -213,16 +213,28 @@
       "id": 29
     },
     {
-      "userId": 6,
-      "eventId": 19,
+      "userId": 1,
+      "eventId": 17,
       "time": "",
-      "id": 30
+      "id": 32
+    },
+    {
+      "userId": 4,
+      "eventId": 17,
+      "time": "",
+      "id": 33
+    },
+    {
+      "userId": 6,
+      "eventId": 17,
+      "time": "",
+      "id": 34
     },
     {
       "userId": 1,
       "eventId": 19,
       "time": "",
-      "id": 31
+      "id": 35
     }
   ],
   "events": [
@@ -239,7 +251,7 @@
       "id": 2,
       "title": "Belmont Baja",
       "location": "Belmont Blvd",
-      "date": "2021-06-10",
+      "date": "2021-06-27",
       "startTime": "09:00",
       "userId": 4,
       "comments": "Utter chaos down a major residential street! Zorbs everywhere! Nice little meetup afterwards at Martin's BBQ."
@@ -347,19 +359,19 @@
       "id": 18,
       "title": "...With Water This Time!",
       "location": "North Park",
-      "date": "2021-06-08",
+      "date": "2021-06-14",
       "startTime": "17:30",
       "userId": 4,
-      "comments": "What if raced down waterslides? 👀"
+      "comments": "What if we raced down waterslides? 👀"
     },
     {
+      "id": 19,
       "title": "SAMPLE RACE",
       "location": "Down The Street",
       "date": "2021-07-02",
       "startTime": "14:00",
       "userId": 4,
-      "comments": "Sample Comments Here",
-      "id": 19
+      "comments": "Sample Comments Here"
     }
   ]
 }
