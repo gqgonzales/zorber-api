@@ -205,6 +205,24 @@
       "eventId": 17,
       "time": "3:55",
       "id": 28
+    },
+    {
+      "userId": 2,
+      "eventId": 19,
+      "time": "",
+      "id": 29
+    },
+    {
+      "userId": 6,
+      "eventId": 19,
+      "time": "",
+      "id": 30
+    },
+    {
+      "userId": 1,
+      "eventId": 19,
+      "time": "",
+      "id": 31
     }
   ],
   "events": [
@@ -232,14 +250,14 @@
       "location": "ES Rose Park",
       "date": "2021-06-11",
       "startTime": "15:00",
-      "userId": 4,
+      "userId": 5,
       "comments": "Quick sprint to keep fresh for the bigger races on the horizon."
     },
     {
       "id": 4,
       "title": "Kentucky Classico",
       "location": "Churchill Downs",
-      "date": "2021-07-03",
+      "date": "2021-07-18",
       "startTime": "13:30",
       "userId": 2,
       "comments": "One of the biggest races of the year. Move over horseys, the zorbies are here."
@@ -248,9 +266,9 @@
       "id": 5,
       "title": "Sunday Stroll",
       "location": "Elmington Park",
-      "date": "2021-07-12",
+      "date": "2021-07-27",
       "startTime": "08:00",
-      "userId": 5,
+      "userId": 4,
       "comments": "Early morning roll."
     },
     {
@@ -299,15 +317,6 @@
       "comments": "Testing our multi-user select, let's see if we can create some new objects."
     },
     {
-      "title": "Sample Race",
-      "location": "Wherever",
-      "date": "2021-06-25",
-      "startTime": "18:00",
-      "userId": 4,
-      "comments": "Sample description",
-      "id": 12
-    },
-    {
       "title": "Building Bridges",
       "location": "Natchez Trace Parkway",
       "date": "2021-08-03",
@@ -342,6 +351,15 @@
       "startTime": "17:30",
       "userId": 4,
       "comments": "What if raced down waterslides? 👀"
+    },
+    {
+      "title": "SAMPLE RACE",
+      "location": "Down The Street",
+      "date": "2021-07-02",
+      "startTime": "14:00",
+      "userId": 4,
+      "comments": "Sample Comments Here",
+      "id": 19
     }
   ]
 }
