@@ -235,6 +235,42 @@
       "eventId": 19,
       "time": "",
       "id": 35
+    },
+    {
+      "userId": 3,
+      "eventId": 9,
+      "time": "",
+      "id": 36
+    },
+    {
+      "userId": 4,
+      "eventId": 9,
+      "time": "",
+      "id": 37
+    },
+    {
+      "userId": 5,
+      "eventId": 11,
+      "time": "",
+      "id": 38
+    },
+    {
+      "userId": 6,
+      "eventId": 13,
+      "time": "",
+      "id": 39
+    },
+    {
+      "userId": 5,
+      "eventId": 13,
+      "time": "",
+      "id": 40
+    },
+    {
+      "userId": 3,
+      "eventId": 13,
+      "time": "",
+      "id": 41
     }
   ],
   "events": [
@@ -302,13 +338,13 @@
       "comments": "While the weather cools off, the competition heats up!"
     },
     {
+      "id": 9,
       "title": "RollsRoyce",
       "location": "Royce Blvd",
       "date": "2021-09-18",
       "startTime": "16:45",
       "userId": 4,
-      "comments": "Nashville's bougiest street needs some extra weirdness this afternoon. Bring your zorb and let's have a leisurely roll down the boulevard!",
-      "id": 9
+      "comments": "Nashville's bougiest street needs some extra weirdness this afternoon. Bring your zorb and let's have a leisurely roll down the boulevard!"
     },
     {
       "id": 10,
@@ -329,13 +365,13 @@
       "comments": "Testing our multi-user select, let's see if we can create some new objects."
     },
     {
+      "id": 13,
       "title": "Building Bridges",
       "location": "Natchez Trace Parkway",
       "date": "2021-08-03",
       "startTime": "10:00",
       "userId": 4,
-      "comments": "Testing out bridge objects in more ways than one!",
-      "id": 13
+      "comments": "Testing out bridge objects in more ways than one!"
     },
     {
       "id": 15,
