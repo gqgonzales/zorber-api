@@ -35,6 +35,12 @@
       "name": "Lana Lehmann",
       "winPercentage": 0,
       "id": 6
+    },
+    {
+      "email": "steve@nss.com",
+      "name": "Steve Brownie",
+      "winPercentage": 0,
+      "id": 7
     }
   ],
   "userEvents": [
@@ -90,7 +96,7 @@
       "id": 9,
       "userId": 5,
       "eventId": 2,
-      "time": "5:49"
+      "time": "5:20"
     },
     {
       "id": 10,
@@ -207,16 +213,16 @@
       "id": 28
     },
     {
+      "id": 29,
       "userId": 2,
       "eventId": 19,
-      "time": "",
-      "id": 29
+      "time": "4:58"
     },
     {
+      "id": 35,
       "userId": 1,
       "eventId": 19,
-      "time": "",
-      "id": 35
+      "time": "4:42"
     },
     {
       "userId": 3,
@@ -271,6 +277,48 @@
       "eventId": 15,
       "time": "",
       "id": 46
+    },
+    {
+      "id": 47,
+      "userId": 2,
+      "eventId": 20,
+      "time": "2:15"
+    },
+    {
+      "userId": 7,
+      "eventId": 20,
+      "time": "",
+      "id": 48
+    },
+    {
+      "userId": 4,
+      "eventId": 20,
+      "time": "",
+      "id": 49
+    },
+    {
+      "userId": 5,
+      "eventId": 20,
+      "time": "",
+      "id": 50
+    },
+    {
+      "id": 51,
+      "userId": 6,
+      "eventId": 17,
+      "time": "4:08"
+    },
+    {
+      "userId": 7,
+      "eventId": 17,
+      "time": "",
+      "id": 52
+    },
+    {
+      "id": 53,
+      "userId": 5,
+      "eventId": 19,
+      "time": "4:55"
     }
   ],
   "events": [
@@ -408,6 +456,15 @@
       "startTime": "14:00",
       "userId": 4,
       "comments": "Some sample comments here."
+    },
+    {
+      "id": 20,
+      "title": "Sample",
+      "location": "Elmington Park",
+      "date": "2021-07-03",
+      "startTime": "10:00",
+      "userId": 2,
+      "comments": "For Monica"
     }
   ]
 }
