@@ -2,7 +2,7 @@
   "users": [
     {
       "id": 1,
-      "name": "Wanda wambsgans",
+      "name": "Wanda Wambsgans",
       "email": "wanda@nss.com",
       "winPercentage": 0
     },
@@ -41,6 +41,18 @@
       "name": "Steve Brownie",
       "winPercentage": 0,
       "id": 7
+    },
+    {
+      "email": "abel@nss.com",
+      "name": "Abel Anaya",
+      "winPercentage": 0,
+      "id": 8
+    },
+    {
+      "email": "sarah@nss.com",
+      "name": "Sarah Sarsfeld",
+      "winPercentage": 0,
+      "id": 9
     }
   ],
   "userEvents": [
@@ -192,7 +204,7 @@
       "id": 25,
       "userId": 4,
       "eventId": 18,
-      "time": "4:01"
+      "time": "4:07"
     },
     {
       "id": 26,
@@ -229,12 +241,6 @@
       "eventId": 9,
       "time": "",
       "id": 36
-    },
-    {
-      "userId": 4,
-      "eventId": 9,
-      "time": "",
-      "id": 37
     },
     {
       "userId": 5,
@@ -297,16 +303,46 @@
       "id": 54
     },
     {
-      "id": 56,
-      "userId": 4,
+      "id": 58,
+      "userId": 3,
       "eventId": 20,
-      "time": "6:05"
+      "time": "5:55"
     },
     {
-      "id": 57,
-      "userId": 7,
+      "userId": 6,
+      "eventId": 9,
+      "time": "",
+      "id": 59
+    },
+    {
+      "id": 60,
+      "userId": 4,
       "eventId": 20,
-      "time": "6:01"
+      "time": "6:07"
+    },
+    {
+      "id": 61,
+      "userId": 7,
+      "eventId": 21,
+      "time": "4:54"
+    },
+    {
+      "id": 62,
+      "userId": 9,
+      "eventId": 21,
+      "time": "4:31"
+    },
+    {
+      "id": 63,
+      "userId": 2,
+      "eventId": 21,
+      "time": "4:22"
+    },
+    {
+      "id": 64,
+      "userId": 8,
+      "eventId": 21,
+      "time": "5:01"
     }
   ],
   "events": [
@@ -449,10 +485,19 @@
       "id": 20,
       "title": "Zorbing, the Study of Zorb",
       "location": "Elmington Park",
-      "date": "2021-07-03",
+      "date": "2021-06-22",
       "startTime": "10:00",
       "userId": 2,
       "comments": "It's elementary!"
+    },
+    {
+      "title": "BounceHaüs",
+      "location": "Bowling Creek Dr",
+      "date": "2021-06-08",
+      "startTime": "14:00",
+      "userId": 9,
+      "comments": "Time to practice on tough terrain! Clark did exceptionally this round.",
+      "id": 21
     }
   ]
 }
