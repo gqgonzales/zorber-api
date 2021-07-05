@@ -2,8 +2,8 @@
   "users": [
     {
       "id": 1,
-      "name": "Hannah Hall",
-      "email": "hannah@nss.com",
+      "name": "Wanda wambsgans",
+      "email": "wanda@nss.com",
       "winPercentage": 0
     },
     {
@@ -14,8 +14,8 @@
     },
     {
       "id": 3,
-      "name": "Nan Namafoko",
-      "email": "nan@nss.com",
+      "name": "Nancy Nuñez",
+      "email": "nancy@nss.com",
       "winPercentage": 0
     },
     {
@@ -447,12 +447,12 @@
     },
     {
       "id": 20,
-      "title": "Sample",
+      "title": "Zorbing, the Study of Zorb",
       "location": "Elmington Park",
       "date": "2021-07-03",
       "startTime": "10:00",
       "userId": 2,
-      "comments": "For Monica"
+      "comments": "It's elementary!"
     }
   ]
 }
