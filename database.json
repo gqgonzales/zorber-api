@@ -216,7 +216,7 @@
       "id": 29,
       "userId": 2,
       "eventId": 19,
-      "time": "4:58"
+      "time": "4:55"
     },
     {
       "id": 35,
@@ -253,12 +253,6 @@
       "eventId": 13,
       "time": "",
       "id": 40
-    },
-    {
-      "userId": 3,
-      "eventId": 13,
-      "time": "",
-      "id": 41
     },
     {
       "userId": 4,
@@ -303,16 +297,16 @@
       "id": 54
     },
     {
+      "id": 56,
       "userId": 4,
       "eventId": 20,
-      "time": "",
-      "id": 56
+      "time": "6:05"
     },
     {
-      "userId": 6,
+      "id": 57,
+      "userId": 7,
       "eventId": 20,
-      "time": "",
-      "id": 57
+      "time": "6:01"
     }
   ],
   "events": [
